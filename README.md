@@ -9,6 +9,10 @@ Colorado is home to so many amazing breweries, but many people don't realize is 
 
 Direct link to app: https://murmuring-temple-41281.herokuapp.com/
 
+To experience authentication and logging in, please use: 
+username: Testing@mail.com
+password: Test
+
 ### Technologies used:
 
 Front-end framework: HTML, CSS, Sass, Materialize
